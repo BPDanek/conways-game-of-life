@@ -1,0 +1,2 @@
+all: cellular_automata.cc 
+	g++ -g -o cellular_automata cellular_automata.cc
